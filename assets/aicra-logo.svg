@@ -1,0 +1,40 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- 
+    AICRA-OS Logo (Vector Version)
+    Designed by Gemini for AICRA-OS
+    Colors:
+      - Dark Gray (Structure): #36454F
+      - Green (Core/AI Context): #2ECC71
+  -->
+  <title>AICRA-OS Logo</title>
+  <desc>A central green cube representing AI context, surrounded by dark gray cubes representing the structure and standard.</desc>
+  
+  <g transform="translate(100, 100) scale(0.8)">
+    
+    <!-- Arka Sıra Küpler (Gri) -->
+    <g id="background-cubes">
+      <path d="M 0 -80 L 34.6 -60 L 0 -40 L -34.6 -60 Z" fill="#36454F" stroke="#FFFFFF" stroke-width="2"/>
+      <path d="M -34.6 -60 L 0 -40 L 0 0 L -34.6 -20 Z" fill="#36454F" stroke="#FFFFFF" stroke-width="2"/>
+      <path d="M 34.6 -60 L 0 -40 L 0 0 L 34.6 -20 Z" fill="#36454F" stroke="#FFFFFF" stroke-width="2"/>
+    </g>
+    
+    <!-- Orta Sıra Küpler (Gri) -->
+    <g id="middle-cubes">
+      <!-- Sol Küp -->
+      <path d="M -34.6 -20 L 0 0 L -34.6 20 L -69.2 0 Z" fill="#36454F" stroke="#FFFFFF" stroke-width="2"/>
+      <path d="M -69.2 0 L -34.6 20 L -34.6 60 L -69.2 40 Z" fill="#36454F" stroke="#FFFFFF" stroke-width="2"/>
+      
+      <!-- Sağ Küp -->
+      <path d="M 34.6 -20 L 0 0 L 34.6 20 L 69.2 0 Z" fill="#36454F" stroke="#FFFFFF" stroke-width="2"/>
+      <path d="M 69.2 0 L 34.6 20 L 34.6 60 L 69.2 40 Z" fill="#36454F" stroke="#FFFFFF" stroke-width="2"/>
+    </g>
+    
+    <!-- Merkez Küp (Yeşil) -->
+    <g id="center-cube-green">
+      <path d="M 0 0 L 34.6 20 L 0 40 L -34.6 20 Z" fill="#2ECC71" stroke="#FFFFFF" stroke-width="2"/>
+      <path d="M -34.6 20 L 0 40 L 0 80 L -34.6 60 Z" fill="#2ECC71" stroke="#FFFFFF" stroke-width="2"/>
+      <path d="M 34.6 20 L 0 40 L 0 80 L 34.6 60 Z" fill="#2ECC71" stroke="#FFFFFF" stroke-width="2"/>
+    </g>
+    
+  </g>
+</svg>
