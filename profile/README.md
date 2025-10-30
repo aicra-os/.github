@@ -1,5 +1,9 @@
 # Hoş Geldiniz! Welcome to the AICRA Open Standard!
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aicra-os/.github/main/assets/aicra-logo.svg" alt="AICRA-OS Logo" width="200">
+</p>
+
 **[EN]** This organization is dedicated to building **AICRA (AI-Contextual Repository Architecture)**, an open standard for creating AI-native, context-aware software repositories that enable seamless collaboration between humans and AI agents.
 
 **[TR]** Bu organizasyon, insan geliştiriciler ve yapay zeka ajanları arasında sorunsuz işbirliği sağlayan, yapay zeka-odaklı ve bağlam-bilinçli yazılım depoları oluşturmak için bir açık standart olan **AICRA (AI-Contextual Repository Architecture)** projesini geliştirmeye adanmıştır.
